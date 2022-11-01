@@ -1,5 +1,4 @@
-" Author: Jorge Martínez
-" Github: https://github.com/jorgepiloto
+" A colorful Vim theme designed for productivity
 
 set background=dark
 highlight clear
