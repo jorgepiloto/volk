@@ -1,6 +1,6 @@
 # Volk colorscheme for vim
 
-<img align="left" src="volk_logo.png">
+<img align="left" src="_static/logo.png">
 
 Volk is a colorscheme designed for Vim to highlight Python syntax a really
 colorful way. I decided to develope it by my own and adapt it to my needs.
@@ -27,4 +27,4 @@ Plugin 'jorgepiloto/volk'
 
 ## Screenshot
 
-<img align="left" src="screenshot.png">
+<img align="left" src="_static/screenshot.png">
