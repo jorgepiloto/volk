@@ -20,6 +20,22 @@ let darkred = 52
 let springgreen = 41
 let orange = 166
 
+" Signs column style
+hi SignColumn ctermbg=black ctermfg=white
+
+" Popup windows style
+hi Pmenu ctermbg=black ctermfg=white
+hi PmenuSel ctermbg=yellow ctermfg=black cterm=bold
+
+" Status line style
+hi StatusLine ctermbg=black ctermfg=white cterm=bold
+hi StatusLineNC ctermbg=black ctermfg=white cterm=bold
+
+" Tabs line style
+hi TabLineFill ctermbg=black ctermfg=white cterm=bold
+hi TabLineSel ctermbg=yellow ctermfg=black
+
+
 
 " Python syntax
 
